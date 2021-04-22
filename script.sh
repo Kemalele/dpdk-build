@@ -1,5 +1,3 @@
-mkdir dpdk;
-cd dpdk;
 git clone https://github.com/yerden/dpdk-build.git
 chmod +x dpdk-build/scripts/pre-build.ubuntu.sh;
 ./dpdk-build/scripts/pre-build.ubuntu.sh;
